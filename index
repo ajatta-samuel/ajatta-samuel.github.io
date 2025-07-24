@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AjattaClips – Video Editing Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>AjattaClips</h1>
+    <p>Snappy Edits. Strong Impressions.</p>
+    <a href="mailto:ajattasamuel@gmail.com" class="hire-button">Hire Me</a>
+  </header>
+
+  <section class="about">
+    <h2>About Me</h2>
+    <p>I’m Samuel Ajatta, a video editor specializing in short-form social media content, YouTube videos, brand promos, and commercials. I transform raw footage into scroll-stopping videos that retain attention and boost engagement.</p>
+  </section>
+
+  <section class="services">
+    <h2>Core Services</h2>
+    <ul>
+      <li>🎬 Social Media Editing (Reels, TikToks, Shorts)</li>
+      <li>📹 YouTube Video Editing</li>
+      <li>📢 Brand Promo Videos</li>
+      <li>📺 Commercials & Vlogs</li>
+    </ul>
+  </section>
+
+  <section class="tools">
+    <h2>Skills & Tools</h2>
+    <p>CapCut, Clipchamp, Canva, Adobe Premiere Pro (basics), Storyboarding, Script-cutting, Motion Effects, Sound Syncing</p>
+  </section>
+
+  <section class="projects">
+    <h2>Sample Projects</h2>
+
+    <div class="project">
+      <img src="thumbnails/social_podcast_edit.png" alt="Podcast Reels Thumbnail" />
+      <h3>Podcast to Reels</h3>
+      <p>Each podcast project below was carefully cut down from long-form content and repackaged into Reels and TikTok-friendly formats to drive engagement, retention, and mobile-first impact.</p>
+      <a href="https://drive.google.com/file/d/16rDyx0tTtC79EbS23Ua6vYStRMDyLhYw/view" target="_blank">Watch</a>
+    </div>
+
+    <div class="project">
+      <img src="thumbnails/brand_promo_reel.png" alt="Brand Promo Thumbnail" />
+      <h3>Brand Promo</h3>
+      <p>Short promotional video for a personal or brand campaign – optimized for Instagram and TikTok visibility.</p>
+      <a href="https://drive.google.com/file/d/1aLVfS7_8C8zpUDadEgTe2M3yBM09LHdX/view" target="_blank">Watch</a>
+    </div>
+
+    <div class="project">
+      <img src="thumbnails/clean_transition_edit.png" alt="Clean Transitions Thumbnail" />
+      <h3>Clean Transitions Compilation</h3>
+      <p>Showcasing quick cuts, smooth transitions, and audio-synced effects across diverse clips and formats.</p>
+      <a href="https://drive.google.com/file/d/1epVHsYoheee-neW0UgH1GDENzXBXoD_Y/view" target="_blank">Watch</a>
+    </div>
+
+    <div class="project">
+      <img src="thumbnails/youtube_ad_thumbnail.png" alt="YouTube Challenge Ad Thumbnail" />
+      <h3>YouTube Challenge Ad</h3>
+      <p>Created to promote a YouTube challenge video. Focused on dynamic pacing, branding, and audio syncing.</p>
+      <a href="https://drive.google.com/file/d/1Q1Mc7EuMO4VTbzVBtfzy_cMuSApWMYOk/view" target="_blank">Watch</a>
+    </div>
+  </section>
+
+  <footer>
+    <p>Built with ❤️ by Ajatta Samuel – <a href="mailto:ajattasamuel@gmail.com">Email Me</a></p>
+  </footer>
+</body>
+</html>
